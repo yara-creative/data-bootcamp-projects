@@ -1,0 +1,932 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<meta name="description" content="The Supremes lyrics - 280 song lyrics sorted by album, including &quot;Baby Love&quot;, &quot;You Can't Hurry Love&quot;, &quot;Where Did Our Love Go&quot;."> 
+<meta name="keywords" content="The Supremes, The Supremes lyrics, discography, albums, songs">
+<meta name="robots" content="noarchive">
+<title>The Supremes Lyrics</title>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link rel="stylesheet" href="/local/az.css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+window.rtkGPTSlotsTargeting = [
+    [
+        ["genre", "pop"],
+        ["artist", "The Supremes"]
+    ]
+];
+</script>
+<script src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" data-language="en" type="text/javascript" charset="UTF-8" data-domain-script="464b7175-7273-4e0f-8753-e9a483d4a156" ></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+
+<script type="text/javascript">
+ArtistName = "The Supremes";
+</script>
+<script data-ad-client="ca-pub-8311282510623742" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+<body class="margin50">
+  <nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#search-collapse">
+        <span class="glyphicon glyphicon-search"></span>
+      </button>
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#artists-collapse">
+        <span class="glyphicon glyphicon-th-list"></span>
+      </button>
+      <a class="navbar-brand" href="//www.azlyrics.com"><img alt="AZLyrics.com" class="pull-left" style="max-height:40px; margin-top:-10px;" src="//www.azlyrics.com/az_logo_tr.png"></a>
+    </div>
+    <ul class="collapse navbar-collapse nav navbar-nav" id="artists-collapse">
+    <li>
+    <div class="btn-group text-center" role="group">
+    <a class="btn btn-menu" href="//www.azlyrics.com/a.html">A</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/b.html">B</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/c.html">C</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/d.html">D</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/e.html">E</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/f.html">F</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/g.html">G</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/h.html">H</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/i.html">I</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/j.html">J</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/k.html">K</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/l.html">L</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/m.html">M</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/n.html">N</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/o.html">O</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/p.html">P</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/q.html">Q</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/r.html">R</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/s.html">S</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/t.html">T</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/u.html">U</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/v.html">V</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/w.html">W</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/x.html">X</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/y.html">Y</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/z.html">Z</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/19.html">#</a>
+    </div>
+    </li>
+    </ul>
+
+    <div class="collapse navbar-collapse" id="search-collapse">
+
+        <form class="navbar-form navbar-right search" method="get" action="//search.azlyrics.com/search.php" role="search">
+         <div class="input-group">  
+		<input type="text" class="form-control" placeholder="" name="q" id="q">
+       		<span class="input-group-btn">
+            	  <button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+          	</span>
+ 	  </div>   
+	</form>
+
+    </div><!-- /.navbar-collapse -->
+    </div><!-- /.container -->
+  </nav>
+
+<!-- top ban -->
+  <div class="lboard-wrap">
+  <div class="container">
+    <div class="row">
+       <div class="col-xs-12 top-ad text-center">
+         <div id="RTK_u0kw"></div>
+       </div>
+    </div>
+  </div>
+  </div>
+
+<!-- main -->
+<div class="container main-page">
+<div class="row">
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs">
+   <div class="sky-ad"></div>
+</div>
+
+<!-- content -->
+<div class="col-xs-12 col-lg-8 text-center">
+
+<form id="addsong" action="../add.php" method="post">
+<input type="hidden" name="what" value="add_song">
+<input type="hidden" name="artist" value="The Supremes">
+<input type="hidden" name="artist_id" value="3564">
+</form>
+
+<div class="div-share noprint" style="padding-bottom:20px;">
+<div class="addthis_toolbox addthis_default_style">
+<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.azlyrics.com%2Fs%2Fsupremes.html&amp;title=The%20Supremes%20Lyrics&amp;display=page" target="_blank" class="btn btn-xs btn-share addthis_button_facebook">
+<span class="playblk"><img src="//www.azlyrics.com/images/share-icons/facebook.svg" width="25" height="25" class="playblk" alt="Share on Facebook" title="Share on Facebook"></span>
+</a>
+<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.azlyrics.com%2Fs%2Fsupremes.html&amp;text=The%20Supremes%20Lyrics" target="_blank" class="btn btn-xs btn-share addthis_button_twitter">
+<span class="playblk"><img src="//www.azlyrics.com/images/share-icons/twitter.svg" width="25" height="25" class="playblk" alt="Share on Twitter" title="Share on Twitter"></span>
+</a>
+<a href="mailto:?subject=The%20Supremes%20Lyrics&amp;body=https%3A%2F%2Fwww.azlyrics.com%2Fs%2Fsupremes.html" target="_blank" class="btn btn-xs btn-share addthis_button_email">
+<span class="playblk"><img src="//www.azlyrics.com/images/share-icons/email.svg" width="25" height="25" class="playblk" alt="Email" title="Email"></span>
+</a>
+</div>
+</div>
+
+<div class="middle-ad">
+ <div id="RTK_bwNL"></div>
+</div>
+
+<h1><strong>The Supremes Lyrics</strong></h1>
+
+<div class="ringtone">
+<span id="cf_text_top"></span>
+</div>
+
+Related artists:<br>
+<a href="../d/dianaross.html">Diana Ross</a>
+<br><br>
+
+<!-- start of song list -->
+<a id="az_sort_album" class="btn btn-xs btn-default sorting"><span class="glyphicon glyphicon-sort-by-order"></span> sort by album</a><a id="az_sort_song" class="btn btn-xs btn-default sorting"><span class="glyphicon glyphicon-sort-by-alphabet"></span> sort by song</a><br>
+<div id="listAlbum">
+<div id="18282" class="album">album: <b>"Meet The Supremes"</b> (1962)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/yourheartbelongstome.html" target="_blank">Your Heart Belongs To Me</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/whoslovinyou.html" target="_blank">Who's Lovin' You</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/babydontgo.html" target="_blank">Baby Don't Go</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/butteredpopcorn.html" target="_blank">Buttered Popcorn</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/iwantaguy.html" target="_blank">I Want A Guy</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/letmegotherightway.html" target="_blank">Let Me Go The Right Way</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/youbringbackmemories.html" target="_blank">You Bring Back Memories</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/timechangesthings.html" target="_blank">Time Changes Things</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/playasadsong.html" target="_blank">Play A Sad Song</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/neveragain.html" target="_blank">Never Again</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/hesseventeen.html" target="_blank">(He's) Seventeen</a></div>
+
+<div id="18283" class="album">album: <b>"Where Did Our Love Go"</b> (1964)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/wheredidourlovego.html" target="_blank">Where Did Our Love Go</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/runrunrun.html" target="_blank">Run, Run, Run</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/babylove.html" target="_blank">Baby Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/whenthelovelightstartsshiningthroughhiseyes.html" target="_blank">When The Lovelight Starts Shining Through His Eyes</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/comeseeaboutme.html" target="_blank">Come See About Me</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/longgonelover.html" target="_blank">Long Gone Lover</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/imgivingyouyourfreedom.html" target="_blank">I'm Giving You Your Freedom</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/abreathtakingguy.html" target="_blank">A Breathtaking Guy</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/hemeanstheworldtome.html" target="_blank">He Means The World To Me</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/standingatthecrossroadsoflove.html" target="_blank">Standing At The Crossroads Of Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/yourkissoffire.html" target="_blank">Your Kiss Of Fire</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/askanygirl.html" target="_blank">Ask Any Girl</a></div>
+
+<div id="18284" class="album">album: <b>"A Bit Of Liverpool"</b> (1964)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/howdoyoudoit.html" target="_blank">How Do You Do It</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/aworldwithoutlove.html" target="_blank">A World Without Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/thehouseoftherisingsun.html" target="_blank">The House Of The Rising Sun</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/aharddaysnight.html" target="_blank">A Hard Day's Night</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/because.html" target="_blank">Because</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/youvereallygotaholdonme.html" target="_blank">You've Really Got A Hold On Me</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/youcantdothat.html" target="_blank">You Can't Do That</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/doyouloveme.html" target="_blank">Do You Love Me</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/cantbuymelove.html" target="_blank">Can't Buy Me Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/iwanttoholdyourhand.html" target="_blank">I Want To Hold Your Hand</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/bitsandpieces.html" target="_blank">Bits And Pieces</a></div>
+
+<div id="18285" class="album">album: <b>"The Supremes Sing Country, Western And Pop"</b> (1965)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/funnyhowtimeslipsaway.html" target="_blank">Funny How Time Slips Away</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/myheartcanttakeitnomore.html" target="_blank">My Heart Can't Take It No More</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/itmakesnodifferencenow.html" target="_blank">It Makes No Difference Now</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/youdidntcare.html" target="_blank">You Didn't Care</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/tearsinvain.html" target="_blank">Tears In Vain</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/tumblingtumbleweeds.html" target="_blank">Tumbling Tumbleweeds</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/lazybones.html" target="_blank">Lazy Bones</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/youneedme.html" target="_blank">You Need Me</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/babydoll.html" target="_blank">Baby Doll</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/sunset.html" target="_blank">Sunset</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/themanwiththerockandrollbanjoband.html" target="_blank">(The Man With The) Rock And Roll Banjo Band</a></div>
+
+<br><div id="RTK_y5k6"></div>
+<div id="18286" class="album">album: <b>"We Remember Sam Cooke"</b> (1965)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/yousendme.html" target="_blank">You Send Me</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/nothingcanchangethislove.html" target="_blank">Nothing Can Change This Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/cupid.html" target="_blank">Cupid</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/chaingang.html" target="_blank">Chain Gang</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/bringitonhometome.html" target="_blank">Bring It On Home To Me</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/onlysixteen.html" target="_blank">Only Sixteen</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/havinaparty.html" target="_blank">Havin' A Party</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/shake.html" target="_blank">Shake</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/wonderfulworld.html" target="_blank">Wonderful World</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/achangeisgonnacome.html" target="_blank">A Change Is Gonna Come</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/aintthatgoodnews.html" target="_blank">(Ain't That) Good News</a></div>
+
+<div id="18287" class="album">album: <b>"More Hits By The Supremes"</b> (1965)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/askanygirl.html" target="_blank">Ask Any Girl</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/nothingbutheartaches.html" target="_blank">Nothing But Heartaches</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/motherdear.html" target="_blank">Mother Dear</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/stopinthenameoflove.html" target="_blank">Stop! In The Name Of Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/honeyboy.html" target="_blank">Honey Boy</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/backinmyarmsagain.html" target="_blank">Back In My Arms Again</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/whisperyoulovemeboy.html" target="_blank">Whisper You Love Me Boy</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/theonlytimeimhappy.html" target="_blank">The Only Time I'm Happy</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/heholdshisown.html" target="_blank">He Holds His Own</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/whocouldeverdoubtmylove.html" target="_blank">Who Could Ever Doubt My Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/imsogladheartachesdontlastalways.html" target="_blank">(I'm So Glad) Heartaches Don't Last Always</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/iminloveagain.html" target="_blank">I'm In Love Again</a></div>
+
+<div id="18288" class="album">album: <b>"Merry Christmas"</b> (1965)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/silverbells.html" target="_blank">Silver Bells</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/bornofmary.html" target="_blank">Born Of Mary</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/childrenschristmassong.html" target="_blank">Children's Christmas Song</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/thelittledrummerboy.html" target="_blank">The Little Drummer Boy</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/mychristmastree.html" target="_blank">My Christmas Tree</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/rudolphtherednosedreindeer.html" target="_blank">Rudolph, The Red-Nosed Reindeer</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/santaclausiscomingtotown.html" target="_blank">Santa Claus Is Coming To Town</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/myfavoritethings.html" target="_blank">My Favorite Things</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/twinkletwinklelittleme.html" target="_blank">Twinkle Twinkle Little Me</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/littlebrightstar.html" target="_blank">Little Bright Star</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/joytotheworld.html" target="_blank">Joy To The World</a></div>
+
+<div id="18289" class="album">album: <b>"I Hear A Symphony"</b> (1966)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/strangerinparadise.html" target="_blank">Stranger In Paradise</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/yesterday.html" target="_blank">Yesterday</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/ihearasymphony.html" target="_blank">I Hear A Symphony</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/unchainedmelody.html" target="_blank">Unchained Melody</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/withasonginmyheart.html" target="_blank">With A Song In My Heart</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/withoutasong.html" target="_blank">Without A Song</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/myworldisemptywithoutyou.html" target="_blank">My World Is Empty Without You</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/aloversconcerto.html" target="_blank">A Lover's Concerto</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/anygirlinloveknowswhatimgoingthrough.html" target="_blank">Any Girl In Love (Knows What I'm Going Through)</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/wonderfulwonderful.html" target="_blank">Wonderful! Wonderful!</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/everythingisgoodaboutyou.html" target="_blank">Everything Is Good About You</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/hesalligot.html" target="_blank">He's All I Got</a></div>
+
+<br><div id="RTK_1sSa"></div>
+<div id="18290" class="album">album: <b>"The Supremes A' Go-Go"</b> (1966)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/loveislikeanitchinginmyheart.html" target="_blank">Love Is Like An Itching In My Heart</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/thisoldheartofmineisweakforyou.html" target="_blank">This Old Heart Of Mine (Is Weak For You)</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/youcanthurrylove.html" target="_blank">You Can't Hurry Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/shakemewakemewhenitsover.html" target="_blank">Shake Me, Wake Me (When It's Over)</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/babyineedyourloving.html" target="_blank">Baby I Need Your Loving</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/thesebootsaremadeforwalkin.html" target="_blank">These Boots Are Made For Walkin'</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/icanthelpmyselfsugarpiehoneybunch.html" target="_blank">I Can't Help Myself (Sugar Pie Honey Bunch)</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/getready.html" target="_blank">Get Ready</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/putyourselfinmyplace.html" target="_blank">Put Yourself In My Place</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/moneythatswhatiwant.html" target="_blank">Money (That's What I Want)</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/comeandgetthesememories.html" target="_blank">Come And Get These Memories</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/hangonsloopy.html" target="_blank">Hang On Sloopy</a></div>
+
+<div id="18291" class="album">album: <b>"The Supremes Sing Holland-Dozier-Holland"</b> (1967)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/youkeepmehanginon.html" target="_blank">You Keep Me Hangin' On</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/youregonebutalwaysinmyheart.html" target="_blank">You're Gone, But Always In My Heart</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/loveishereandnowyouregone.html" target="_blank">Love Is Here And Now You're Gone</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/iwannamotheryousmotheryouwithlove.html" target="_blank">I Wanna Mother You, Smother You With Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/illguessillalwaysloveyou.html" target="_blank">I'll Guess I'll Always Love You</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/illturntostone.html" target="_blank">I'll Turn To Stone</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/itsthesameoldsong.html" target="_blank">It's The Same Old Song</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/goingdownforthethirdtime.html" target="_blank">Going Down For The Third Time</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/loveisinourhearts.html" target="_blank">Love Is In Our Hearts</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/removethisdoubt.html" target="_blank">Remove This Doubt</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/theresnostoppingusnow.html" target="_blank">There's No Stopping Us Now</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/loveislikeaheatwave.html" target="_blank">(Love Is Like A) Heat Wave</a></div>
+
+<div id="18292" class="album">album: <b>"The Supremes Sing Rodgers &amp; Hart"</b> (1967)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/theladyisatramp.html" target="_blank">The Lady Is A Tramp</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/mountaingreenery.html" target="_blank">Mountain Greenery</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/thiscantbelove.html" target="_blank">This Can't Be Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/whereorwhen.html" target="_blank">Where Or When</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/lover.html" target="_blank">Lover</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/myfunnyvalentine.html" target="_blank">My Funny Valentine</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/myromance.html" target="_blank">My Romance</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/myheartstoodstill.html" target="_blank">My Heart Stood Still</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/fallinginlovewithlove.html" target="_blank">Falling In Love With Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/thouswell.html" target="_blank">Thou Swell</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/dancingontheceiling.html" target="_blank">Dancing On The Ceiling</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/bluemoon.html" target="_blank">Blue Moon</a></div>
+
+<div id="47239" class="album">album: <b>"The Magnificent 7"</b> (1970)<div class="album-subtitle">(with The Four Tops)</div></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/knockonmydoor.html" target="_blank">Knock On My Door</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/foryourlove.html" target="_blank">For Your Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/withouttheoneyoulove.html" target="_blank">Without The One You Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/reachoutandtouchsomebodyshand.html" target="_blank">Reach Out And Touch (Somebody's Hand)</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/stonedsoulpicnic.html" target="_blank">Stoned Soul Picnic</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/babyyouvegotwhatittakes.html" target="_blank">Baby (You've Got What It Takes)</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/riverdeepmountainhigh.html" target="_blank">River Deep-Mountain High</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/aintnothingliketherealthing.html" target="_blank">Ain't Nothing Like The Real Thing</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/everydaypeople.html" target="_blank">Everyday People</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/itsgottobeamiraclethisthingcalledlove.html" target="_blank">It's Got To Be A Miracle (This Thing Called Love)</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/tasteofhoney.html" target="_blank">Taste Of Honey</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/togetherwecanmakesuchsweetmusic.html" target="_blank">Together We Can Make Such Sweet Music</a></div>
+
+<br><div id="RTK_6iy8"></div>
+<div id="18293" class="album">album: <b>"Right On"</b> (1970)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/uptheladdertotheroof.html" target="_blank">Up The Ladder To The Roof</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/thenwecantryagain.html" target="_blank">Then We Can Try Again</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/everybodysgottherighttolove.html" target="_blank">Everybody's Got The Right To Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/waitaminutebeforeyouleaveme.html" target="_blank">Wait A Minute Before You Leave Me</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/youmoveme.html" target="_blank">You Move Me</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/butiloveyoumore.html" target="_blank">But I Love You More</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/igothurttryingtobetheonlygirlinyourlife.html" target="_blank">I Got Hurt (Trying To Be The Only Girl In Your Life)</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/babybaby.html" target="_blank">Baby Baby</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/takeacloserlookatme.html" target="_blank">Take A Closer Look At Me</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/thenimetyou.html" target="_blank">Then I Met You</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/billwhenareyoucomingback.html" target="_blank">Bill, When Are You Coming Back</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/thelovingcountry.html" target="_blank">The Loving Country</a></div>
+
+<div id="18294" class="album">album: <b>"New Ways But Love Stays"</b> (1970)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/togetherwecanmakesuchsweetmusic.html" target="_blank">Together We Can Make Such Sweet Music</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/stonedlove.html" target="_blank">Stoned Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/itstimetobreakdown.html" target="_blank">It's Time To Break Down</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/bridgeovertroubledwater.html" target="_blank">Bridge Over Troubled Water</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/iwishiwereyourmirror.html" target="_blank">I Wish I Were Your Mirror</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/cometogether.html" target="_blank">Come Together</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/isthereaplaceinhisheartforme.html" target="_blank">Is There A Place (In His Heart For Me)</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/nanaheyheykisshimgoodbye.html" target="_blank">Na Na Hey Hey (Kiss Him Goodbye)</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/shineonme.html" target="_blank">Shine On Me</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/thankhimfortoday.html" target="_blank">Thank Him For Today</a></div>
+
+<div id="18295" class="album">album: <b>"Touch"</b> (1971)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/thisisthestory.html" target="_blank">This Is The Story</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/nathanjones.html" target="_blank">Nathan Jones</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/herecomesthesunrise.html" target="_blank">Here Comes The Sunrise</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/loveitcametomethistime.html" target="_blank">Love It Came To Me This Time</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/johnnyraven.html" target="_blank">Johnny Raven</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/haveilostyou.html" target="_blank">Have I Lost You</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/timeandlove.html" target="_blank">Time And Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/touch.html" target="_blank">Touch</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/happyisabumpyroad.html" target="_blank">Happy (Is A Bumpy Road)</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/itssohardformetosaygoodbye.html" target="_blank">It's So Hard For Me To Say Goodbye</a></div>
+
+<div id="47240" class="album">album: <b>"The Return Of The Magnificent Seven"</b> (1971)<div class="album-subtitle">(as The Supremes & The Four Tops)</div></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/yougottahaveloveinyourheart.html" target="_blank">You Gotta Have Love In Your Heart</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/callme.html" target="_blank">Call Me</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/onemorebridgetocross.html" target="_blank">One More Bridge To Cross</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/ifyoucouldseemenow.html" target="_blank">If You Could See Me Now</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/illtrynottocry.html" target="_blank">I'll Try Not To Cry</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/imgladaboutit.html" target="_blank">I'm Glad About It</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/icantbelieveyouloveme.html" target="_blank">I Can't Believe You Love Me</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/wherewouldibewithoutyoubaby.html" target="_blank">Where Would I Be Without You Baby</a></div>
+
+<div id="47241" class="album">album: <b>"Dynamite"</b> (1971)<div class="album-subtitle">(as The Supremes & The Four Tops)</div></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/itsimpossible.html" target="_blank">It's Impossible</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/thebiggeryoulovetheharderyoufall.html" target="_blank">The Bigger You Love (The Harder You Fall)</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/hellostranger.html" target="_blank">Hello Stranger</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/lovetheoneyourewith.html" target="_blank">Love The One You're With</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/goodlovinainteasytocomeby.html" target="_blank">Good Lovin' Ain't Easy To Come By</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/if.html" target="_blank">If</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/ificouldbuildmywholeworldaroundyou.html" target="_blank">If I Could Build My Whole World Around You</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/dontletmelosethisdream.html" target="_blank">Don't Let Me Lose This Dream</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/doyoulovemejustalittlehoney.html" target="_blank">Do You Love Me Just A Little, Honey</a></div>
+
+<div id="18296" class="album">album: <b>"Floy Joy"</b> (1972)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/yourwonderfulsweetsweetlove.html" target="_blank">Your Wonderful Sweet, Sweet Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/floyjoy.html" target="_blank">Floy Joy</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/aheartlikemine.html" target="_blank">A Heart Like Mine</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/overandover.html" target="_blank">Over And Over</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/preciouslittlethings.html" target="_blank">Precious Little Things</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/nowthebitternowthesweet.html" target="_blank">Now The Bitter, Now The Sweet</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/automaticallysunshine.html" target="_blank">Automatically Sunshine</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/thewisdomoftime.html" target="_blank">The Wisdom Of Time</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/ohbemylove.html" target="_blank">Oh Be My Love</a></div>
+
+<div id="18297" class="album">album: <b>"The Supremes Produced And Arranged By Jimmy Webb"</b> (1972)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/iguessillmisstheman.html" target="_blank">I Guess I'll Miss The Man</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/530plane.html" target="_blank">5:30 Plane</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/tossinturnin.html" target="_blank">Tossin' &amp; Turnin'</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/whencanbrownbegin.html" target="_blank">When Can Brown Begin?</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/beyondmyself.html" target="_blank">Beyond Myself</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/silentvoices.html" target="_blank">Silent Voices</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/alliwant.html" target="_blank">All I Want</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/onceinthemorning.html" target="_blank">Once In The Morning</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/ikeepithid.html" target="_blank">I Keep It Hid</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/paradise.html" target="_blank">Paradise</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/cheaplovin.html" target="_blank">Cheap Lovin'</a></div>
+
+<div id="18298" class="album">album: <b>"The Supremes"</b> (1975)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/hesmyman.html" target="_blank">He's My Man</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/earlymorninglove.html" target="_blank">Early Morning Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/whereisitibelong.html" target="_blank">Where Is It I Belong</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/itsallbeensaidbefore.html" target="_blank">It's All Been Said Before</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/thisiswhyibelieveinyou.html" target="_blank">This Is Why I Believe In You</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/youcantstopagirlinlove.html" target="_blank">You Can't Stop A Girl In Love</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/colormyworldblue.html" target="_blank">Color My World Blue</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/giveoutbutdontgiveup.html" target="_blank">Give Out, But Don't Give Up</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/wheredoigofromhere.html" target="_blank">Where Do I Go From Here</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/youturnmearound.html" target="_blank">You Turn Me Around</a></div>
+
+<div id="18299" class="album">album: <b>"High Energy"</b> (1976)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/highenergy.html" target="_blank">High Energy</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/imgonnaletmyheartdothewalking.html" target="_blank">I'm Gonna Let My Heart Do The Walking</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/onlyyoucanlovemelikeyouloveme.html" target="_blank">Only You (Can Love Me Like You Love Me)</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/youkeepmemovingon.html" target="_blank">You Keep Me Moving On</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/dontletmyteardropsbotheryou.html" target="_blank">Don't Let My Teardrops Bother You</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/tilltheboatsailsaway.html" target="_blank">Till The Boat Sails Away</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/idontwanttoloseyou.html" target="_blank">I Don't Want To Lose You</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/yourewhatsmissinginmylife.html" target="_blank">You're What's Missing In My Life</a></div>
+
+<div id="18300" class="album">album: <b>"Mary, Scherrie &amp; Susaye"</b> (1976)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/youremydrivingwheel.html" target="_blank">You're My Driving Wheel</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/sweetdreammachine.html" target="_blank">Sweet Dream Machine</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/letyourselfgo.html" target="_blank">Let Yourself Go</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/comeintomylife.html" target="_blank">Come Into My Life</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/weshouldbeclosertogether.html" target="_blank">We Should Be Closer Together</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/idontwanttobetieddown.html" target="_blank">I Don't Want To Be Tied Down</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/youaretheheartofme.html" target="_blank">You Are The Heart Of Me</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/loveineverknewyoucouldfeelsogood.html" target="_blank">Love, I Never Knew You Could Feel So Good</a></div>
+
+<div id="18301" class="album">compilation: <b>"The Never Before Released Masters"</b> (1987)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/amiaskingtoomuch.html" target="_blank">Am I Asking Too Much</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/adreamisawishyourheartmakes.html" target="_blank">A Dream Is A Wish Your Heart Makes</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/alittlebreeze.html" target="_blank">A Little Breeze</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/canigetawitness.html" target="_blank">Can I Get A Witness</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/comeintomypalace.html" target="_blank">Come Into My Palace</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/dontlettruelovedie.html" target="_blank">Don't Let True Love Die</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/fancypasses.html" target="_blank">Fancy Passes</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/imtheexceptiontotherule.html" target="_blank">I'm The Exception To The Rule</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/ivegotnostrings.html" target="_blank">I've Got No Strings</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/itsgoingallthewaytotruetruelove.html" target="_blank">It's Going All The Way (To True True Love)</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/littlemissloser.html" target="_blank">Little Miss Loser</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/mrblues.html" target="_blank">Mr. Blues</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/ourdaywillcome.html" target="_blank">Our Day Will Come</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/savemeastar.html" target="_blank">Save Me A Star</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/silentnight.html" target="_blank">Silent Night</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/slowdown.html" target="_blank">Slow Down</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/stormy.html" target="_blank">Stormy</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/supercalifragilisticexpialidocious.html" target="_blank">Supercalifragilisticexpialidocious</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/sweetthing.html" target="_blank">Sweet Thing</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/theballadofdavycrocket.html" target="_blank">The Ballad Of Davy Crocket</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/thechristmassong.html" target="_blank">The Christmas Song</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/thelandofmakebelieve.html" target="_blank">The Land Of Make Believe</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/toohurttoocrytoomuchinlovetoosaygoodbye.html" target="_blank">Too Hurt Too Cry, Too Much In Love Too Say Goodbye</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/toomuchalittletoosoon.html" target="_blank">Too Much A Little Too Soon</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/toyland.html" target="_blank">Toyland</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/whistlewhileyouwork.html" target="_blank">Whistle While You Work</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/wontbelongbeforechristmas.html" target="_blank">Won't Be Long Before Christmas</a></div>
+
+<div id="47265" class="album">compilation: <b>"There's A Place For Us"</b> (2004)</div>
+<div class="listalbum-item"><a href="/lyrics/supremes/rockabyeyourbabywithadixiemelody.html" target="_blank">Rock-A-Bye Your Baby With A Dixie Melody</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/fancypasses.html" target="_blank">Fancy Passes</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/theboyfromipanema.html" target="_blank">The Boy From Ipanema</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/putonahappyface.html" target="_blank">Put On A Happy Face</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/ourdaywillcome.html" target="_blank">Our Day Will Come</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/yourenobodytilsomebodylovesyou.html" target="_blank">You're Nobody 'Til Somebody Loves You</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/somewhere.html" target="_blank">Somewhere</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/makesomeonehappy.html" target="_blank">Make Someone Happy</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/littlemissloser.html" target="_blank">Little Miss Loser</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/sleepwalk.html" target="_blank">Sleep Walk</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/bigcitybabiesdontcry.html" target="_blank">Big City Babies Don't Cry</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/people.html" target="_blank">People</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/iamwomanyouareman.html" target="_blank">I Am Woman, You Are Man</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/sincerely.html" target="_blank">Sincerely</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/allofasuddenmyheartsings.html" target="_blank">(All Of A Sudden) My Heart Sings</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/ifiruledtheworld.html" target="_blank">If I Ruled The World</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/whocaniturnto.html" target="_blank">Who Can I Turn To</a></div>
+
+<div class="album"><b>other songs:</b></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/thetears.html" target="_blank">The Tears</a></div>
+<div class="listalbum-item"><a href="/lyrics/supremes/thingsarechanging.html" target="_blank">Things Are Changing</a></div>
+
+<script type="text/javascript">
+<!--
+var songlist = [
+{s:"(Ain't That) Good News", h:"/lyrics/supremes/aintthatgoodnews.html", c:"", a:""},
+{s:"(All Of A Sudden) My Heart Sings", h:"/lyrics/supremes/allofasuddenmyheartsings.html", c:"", a:""},
+{s:"(He's) Seventeen", h:"/lyrics/supremes/hesseventeen.html", c:"", a:""},
+{s:"(I'm So Glad) Heartaches Don't Last Always", h:"/lyrics/supremes/imsogladheartachesdontlastalways.html", c:"", a:""},
+{s:"(Love Is Like A) Heat Wave", h:"/lyrics/supremes/loveislikeaheatwave.html", c:"", a:""},
+{s:"(The Man With The) Rock And Roll Banjo Band", h:"/lyrics/supremes/themanwiththerockandrollbanjoband.html", c:"", a:""},
+{s:"5:30 Plane", h:"/lyrics/supremes/530plane.html", c:"", a:""},
+{s:"A Breathtaking Guy", h:"/lyrics/supremes/abreathtakingguy.html", c:"", a:""},
+{s:"A Change Is Gonna Come", h:"/lyrics/supremes/achangeisgonnacome.html", c:"", a:""},
+{s:"A Dream Is A Wish Your Heart Makes", h:"/lyrics/supremes/adreamisawishyourheartmakes.html", c:"", a:""},
+{s:"A Hard Day's Night", h:"/lyrics/supremes/aharddaysnight.html", c:"", a:""},
+{s:"A Heart Like Mine", h:"/lyrics/supremes/aheartlikemine.html", c:"", a:""},
+{s:"A Little Breeze", h:"/lyrics/supremes/alittlebreeze.html", c:"", a:""},
+{s:"A Lover's Concerto", h:"/lyrics/supremes/aloversconcerto.html", c:"", a:""},
+{s:"A World Without Love", h:"/lyrics/supremes/aworldwithoutlove.html", c:"", a:""},
+{s:"Ain't Nothing Like The Real Thing", h:"/lyrics/supremes/aintnothingliketherealthing.html", c:"", a:""},
+{s:"All I Want", h:"/lyrics/supremes/alliwant.html", c:"", a:""},
+{s:"Am I Asking Too Much", h:"/lyrics/supremes/amiaskingtoomuch.html", c:"", a:""},
+{s:"Any Girl In Love (Knows What I'm Going Through)", h:"/lyrics/supremes/anygirlinloveknowswhatimgoingthrough.html", c:"", a:""},
+{s:"Ask Any Girl", h:"/lyrics/supremes/askanygirl.html", c:"", a:""},
+{s:"Automatically Sunshine", h:"/lyrics/supremes/automaticallysunshine.html", c:"", a:""},
+{s:"Baby (You've Got What It Takes)", h:"/lyrics/supremes/babyyouvegotwhatittakes.html", c:"", a:""},
+{s:"Baby Baby", h:"/lyrics/supremes/babybaby.html", c:"", a:""},
+{s:"Baby Doll", h:"/lyrics/supremes/babydoll.html", c:"", a:""},
+{s:"Baby Don't Go", h:"/lyrics/supremes/babydontgo.html", c:"", a:""},
+{s:"Baby I Need Your Loving", h:"/lyrics/supremes/babyineedyourloving.html", c:"", a:""},
+{s:"Baby Love", h:"/lyrics/supremes/babylove.html", c:"", a:""},
+{s:"Back In My Arms Again", h:"/lyrics/supremes/backinmyarmsagain.html", c:"", a:""},
+{s:"Because", h:"/lyrics/supremes/because.html", c:"", a:""},
+{s:"Beyond Myself", h:"/lyrics/supremes/beyondmyself.html", c:"", a:""},
+{s:"Big City Babies Don't Cry", h:"/lyrics/supremes/bigcitybabiesdontcry.html", c:"", a:""},
+{s:"Bill, When Are You Coming Back", h:"/lyrics/supremes/billwhenareyoucomingback.html", c:"", a:""},
+{s:"Bits And Pieces", h:"/lyrics/supremes/bitsandpieces.html", c:"", a:""},
+{s:"Blue Moon", h:"/lyrics/supremes/bluemoon.html", c:"", a:""},
+{s:"Born Of Mary", h:"/lyrics/supremes/bornofmary.html", c:"", a:""},
+{s:"Bridge Over Troubled Water", h:"/lyrics/supremes/bridgeovertroubledwater.html", c:"", a:""},
+{s:"Bring It On Home To Me", h:"/lyrics/supremes/bringitonhometome.html", c:"", a:""},
+{s:"But I Love You More", h:"/lyrics/supremes/butiloveyoumore.html", c:"", a:""},
+{s:"Buttered Popcorn", h:"/lyrics/supremes/butteredpopcorn.html", c:"", a:""},
+{s:"Call Me", h:"/lyrics/supremes/callme.html", c:"", a:""},
+{s:"Can I Get A Witness", h:"/lyrics/supremes/canigetawitness.html", c:"", a:""},
+{s:"Can't Buy Me Love", h:"/lyrics/supremes/cantbuymelove.html", c:"", a:""},
+{s:"Chain Gang", h:"/lyrics/supremes/chaingang.html", c:"", a:""},
+{s:"Cheap Lovin'", h:"/lyrics/supremes/cheaplovin.html", c:"", a:""},
+{s:"Children's Christmas Song", h:"/lyrics/supremes/childrenschristmassong.html", c:"", a:""},
+{s:"Color My World Blue", h:"/lyrics/supremes/colormyworldblue.html", c:"", a:""},
+{s:"Come And Get These Memories", h:"/lyrics/supremes/comeandgetthesememories.html", c:"", a:""},
+{s:"Come Into My Life", h:"/lyrics/supremes/comeintomylife.html", c:"", a:""},
+{s:"Come Into My Palace", h:"/lyrics/supremes/comeintomypalace.html", c:"", a:""},
+{s:"Come See About Me", h:"/lyrics/supremes/comeseeaboutme.html", c:"", a:""},
+{s:"Come Together", h:"/lyrics/supremes/cometogether.html", c:"", a:""},
+{s:"Cupid", h:"/lyrics/supremes/cupid.html", c:"", a:""},
+{s:"Dancing On The Ceiling", h:"/lyrics/supremes/dancingontheceiling.html", c:"", a:""},
+{s:"Do You Love Me", h:"/lyrics/supremes/doyouloveme.html", c:"", a:""},
+{s:"Do You Love Me Just A Little, Honey", h:"/lyrics/supremes/doyoulovemejustalittlehoney.html", c:"", a:""},
+{s:"Don't Let Me Lose This Dream", h:"/lyrics/supremes/dontletmelosethisdream.html", c:"", a:""},
+{s:"Don't Let My Teardrops Bother You", h:"/lyrics/supremes/dontletmyteardropsbotheryou.html", c:"", a:""},
+{s:"Don't Let True Love Die", h:"/lyrics/supremes/dontlettruelovedie.html", c:"", a:""},
+{s:"Early Morning Love", h:"/lyrics/supremes/earlymorninglove.html", c:"", a:""},
+{s:"Everybody's Got The Right To Love", h:"/lyrics/supremes/everybodysgottherighttolove.html", c:"", a:""},
+{s:"Everyday People", h:"/lyrics/supremes/everydaypeople.html", c:"", a:""},
+{s:"Everything Is Good About You", h:"/lyrics/supremes/everythingisgoodaboutyou.html", c:"", a:""},
+{s:"Falling In Love With Love", h:"/lyrics/supremes/fallinginlovewithlove.html", c:"", a:""},
+{s:"Fancy Passes", h:"/lyrics/supremes/fancypasses.html", c:"", a:""},
+{s:"Floy Joy", h:"/lyrics/supremes/floyjoy.html", c:"", a:""},
+{s:"For Your Love", h:"/lyrics/supremes/foryourlove.html", c:"", a:""},
+{s:"Funny How Time Slips Away", h:"/lyrics/supremes/funnyhowtimeslipsaway.html", c:"", a:""},
+{s:"Get Ready", h:"/lyrics/supremes/getready.html", c:"", a:""},
+{s:"Give Out, But Don't Give Up", h:"/lyrics/supremes/giveoutbutdontgiveup.html", c:"", a:""},
+{s:"Going Down For The Third Time", h:"/lyrics/supremes/goingdownforthethirdtime.html", c:"", a:""},
+{s:"Good Lovin' Ain't Easy To Come By", h:"/lyrics/supremes/goodlovinainteasytocomeby.html", c:"", a:""},
+{s:"Hang On Sloopy", h:"/lyrics/supremes/hangonsloopy.html", c:"", a:""},
+{s:"Happy (Is A Bumpy Road)", h:"/lyrics/supremes/happyisabumpyroad.html", c:"", a:""},
+{s:"Have I Lost You", h:"/lyrics/supremes/haveilostyou.html", c:"", a:""},
+{s:"Havin' A Party", h:"/lyrics/supremes/havinaparty.html", c:"", a:""},
+{s:"He Holds His Own", h:"/lyrics/supremes/heholdshisown.html", c:"", a:""},
+{s:"He Means The World To Me", h:"/lyrics/supremes/hemeanstheworldtome.html", c:"", a:""},
+{s:"He's All I Got", h:"/lyrics/supremes/hesalligot.html", c:"", a:""},
+{s:"He's My Man", h:"/lyrics/supremes/hesmyman.html", c:"", a:""},
+{s:"Hello Stranger", h:"/lyrics/supremes/hellostranger.html", c:"", a:""},
+{s:"Here Comes The Sunrise", h:"/lyrics/supremes/herecomesthesunrise.html", c:"", a:""},
+{s:"High Energy", h:"/lyrics/supremes/highenergy.html", c:"", a:""},
+{s:"Honey Boy", h:"/lyrics/supremes/honeyboy.html", c:"", a:""},
+{s:"How Do You Do It", h:"/lyrics/supremes/howdoyoudoit.html", c:"", a:""},
+{s:"I Am Woman, You Are Man", h:"/lyrics/supremes/iamwomanyouareman.html", c:"", a:""},
+{s:"I Can't Believe You Love Me", h:"/lyrics/supremes/icantbelieveyouloveme.html", c:"", a:""},
+{s:"I Can't Help Myself (Sugar Pie Honey Bunch)", h:"/lyrics/supremes/icanthelpmyselfsugarpiehoneybunch.html", c:"", a:""},
+{s:"I Don't Want To Be Tied Down", h:"/lyrics/supremes/idontwanttobetieddown.html", c:"", a:""},
+{s:"I Don't Want To Lose You", h:"/lyrics/supremes/idontwanttoloseyou.html", c:"", a:""},
+{s:"I Got Hurt (Trying To Be The Only Girl In Your Life)", h:"/lyrics/supremes/igothurttryingtobetheonlygirlinyourlife.html", c:"", a:""},
+{s:"I Guess I'll Miss The Man", h:"/lyrics/supremes/iguessillmisstheman.html", c:"", a:""},
+{s:"I Hear A Symphony", h:"/lyrics/supremes/ihearasymphony.html", c:"", a:""},
+{s:"I Keep It Hid", h:"/lyrics/supremes/ikeepithid.html", c:"", a:""},
+{s:"I Wanna Mother You, Smother You With Love", h:"/lyrics/supremes/iwannamotheryousmotheryouwithlove.html", c:"", a:""},
+{s:"I Want A Guy", h:"/lyrics/supremes/iwantaguy.html", c:"", a:""},
+{s:"I Want To Hold Your Hand", h:"/lyrics/supremes/iwanttoholdyourhand.html", c:"", a:""},
+{s:"I Wish I Were Your Mirror", h:"/lyrics/supremes/iwishiwereyourmirror.html", c:"", a:""},
+{s:"I'll Guess I'll Always Love You", h:"/lyrics/supremes/illguessillalwaysloveyou.html", c:"", a:""},
+{s:"I'll Try Not To Cry", h:"/lyrics/supremes/illtrynottocry.html", c:"", a:""},
+{s:"I'll Turn To Stone", h:"/lyrics/supremes/illturntostone.html", c:"", a:""},
+{s:"I'm Giving You Your Freedom", h:"/lyrics/supremes/imgivingyouyourfreedom.html", c:"", a:""},
+{s:"I'm Glad About It", h:"/lyrics/supremes/imgladaboutit.html", c:"", a:""},
+{s:"I'm Gonna Let My Heart Do The Walking", h:"/lyrics/supremes/imgonnaletmyheartdothewalking.html", c:"", a:""},
+{s:"I'm In Love Again", h:"/lyrics/supremes/iminloveagain.html", c:"", a:""},
+{s:"I'm The Exception To The Rule", h:"/lyrics/supremes/imtheexceptiontotherule.html", c:"", a:""},
+{s:"I've Got No Strings", h:"/lyrics/supremes/ivegotnostrings.html", c:"", a:""},
+{s:"If", h:"/lyrics/supremes/if.html", c:"", a:""},
+{s:"If I Could Build My Whole World Around You", h:"/lyrics/supremes/ificouldbuildmywholeworldaroundyou.html", c:"", a:""},
+{s:"If I Ruled The World", h:"/lyrics/supremes/ifiruledtheworld.html", c:"", a:""},
+{s:"If You Could See Me Now", h:"/lyrics/supremes/ifyoucouldseemenow.html", c:"", a:""},
+{s:"Is There A Place (In His Heart For Me)", h:"/lyrics/supremes/isthereaplaceinhisheartforme.html", c:"", a:""},
+{s:"It Makes No Difference Now", h:"/lyrics/supremes/itmakesnodifferencenow.html", c:"", a:""},
+{s:"It's All Been Said Before", h:"/lyrics/supremes/itsallbeensaidbefore.html", c:"", a:""},
+{s:"It's Going All The Way (To True True Love)", h:"/lyrics/supremes/itsgoingallthewaytotruetruelove.html", c:"", a:""},
+{s:"It's Got To Be A Miracle (This Thing Called Love)", h:"/lyrics/supremes/itsgottobeamiraclethisthingcalledlove.html", c:"", a:""},
+{s:"It's Impossible", h:"/lyrics/supremes/itsimpossible.html", c:"", a:""},
+{s:"It's So Hard For Me To Say Goodbye", h:"/lyrics/supremes/itssohardformetosaygoodbye.html", c:"", a:""},
+{s:"It's The Same Old Song", h:"/lyrics/supremes/itsthesameoldsong.html", c:"", a:""},
+{s:"It's Time To Break Down", h:"/lyrics/supremes/itstimetobreakdown.html", c:"", a:""},
+{s:"Johnny Raven", h:"/lyrics/supremes/johnnyraven.html", c:"", a:""},
+{s:"Joy To The World", h:"/lyrics/supremes/joytotheworld.html", c:"", a:""},
+{s:"Knock On My Door", h:"/lyrics/supremes/knockonmydoor.html", c:"", a:""},
+{s:"Lazy Bones", h:"/lyrics/supremes/lazybones.html", c:"", a:""},
+{s:"Let Me Go The Right Way", h:"/lyrics/supremes/letmegotherightway.html", c:"", a:""},
+{s:"Let Yourself Go", h:"/lyrics/supremes/letyourselfgo.html", c:"", a:""},
+{s:"Little Bright Star", h:"/lyrics/supremes/littlebrightstar.html", c:"", a:""},
+{s:"Little Miss Loser", h:"/lyrics/supremes/littlemissloser.html", c:"", a:""},
+{s:"Long Gone Lover", h:"/lyrics/supremes/longgonelover.html", c:"", a:""},
+{s:"Love Is Here And Now You're Gone", h:"/lyrics/supremes/loveishereandnowyouregone.html", c:"", a:""},
+{s:"Love Is In Our Hearts", h:"/lyrics/supremes/loveisinourhearts.html", c:"", a:""},
+{s:"Love Is Like An Itching In My Heart", h:"/lyrics/supremes/loveislikeanitchinginmyheart.html", c:"", a:""},
+{s:"Love It Came To Me This Time", h:"/lyrics/supremes/loveitcametomethistime.html", c:"", a:""},
+{s:"Love The One You're With", h:"/lyrics/supremes/lovetheoneyourewith.html", c:"", a:""},
+{s:"Love, I Never Knew You Could Feel So Good", h:"/lyrics/supremes/loveineverknewyoucouldfeelsogood.html", c:"", a:""},
+{s:"Lover", h:"/lyrics/supremes/lover.html", c:"", a:""},
+{s:"Make Someone Happy", h:"/lyrics/supremes/makesomeonehappy.html", c:"", a:""},
+{s:"Money (That's What I Want)", h:"/lyrics/supremes/moneythatswhatiwant.html", c:"", a:""},
+{s:"Mother Dear", h:"/lyrics/supremes/motherdear.html", c:"", a:""},
+{s:"Mountain Greenery", h:"/lyrics/supremes/mountaingreenery.html", c:"", a:""},
+{s:"Mr. Blues", h:"/lyrics/supremes/mrblues.html", c:"", a:""},
+{s:"My Christmas Tree", h:"/lyrics/supremes/mychristmastree.html", c:"", a:""},
+{s:"My Favorite Things", h:"/lyrics/supremes/myfavoritethings.html", c:"", a:""},
+{s:"My Funny Valentine", h:"/lyrics/supremes/myfunnyvalentine.html", c:"", a:""},
+{s:"My Heart Can't Take It No More", h:"/lyrics/supremes/myheartcanttakeitnomore.html", c:"", a:""},
+{s:"My Heart Stood Still", h:"/lyrics/supremes/myheartstoodstill.html", c:"", a:""},
+{s:"My Romance", h:"/lyrics/supremes/myromance.html", c:"", a:""},
+{s:"My World Is Empty Without You", h:"/lyrics/supremes/myworldisemptywithoutyou.html", c:"", a:""},
+{s:"Na Na Hey Hey (Kiss Him Goodbye)", h:"/lyrics/supremes/nanaheyheykisshimgoodbye.html", c:"", a:""},
+{s:"Nathan Jones", h:"/lyrics/supremes/nathanjones.html", c:"", a:""},
+{s:"Never Again", h:"/lyrics/supremes/neveragain.html", c:"", a:""},
+{s:"Nothing But Heartaches", h:"/lyrics/supremes/nothingbutheartaches.html", c:"", a:""},
+{s:"Nothing Can Change This Love", h:"/lyrics/supremes/nothingcanchangethislove.html", c:"", a:""},
+{s:"Now The Bitter, Now The Sweet", h:"/lyrics/supremes/nowthebitternowthesweet.html", c:"", a:""},
+{s:"Oh Be My Love", h:"/lyrics/supremes/ohbemylove.html", c:"", a:""},
+{s:"Once In The Morning", h:"/lyrics/supremes/onceinthemorning.html", c:"", a:""},
+{s:"One More Bridge To Cross", h:"/lyrics/supremes/onemorebridgetocross.html", c:"", a:""},
+{s:"Only Sixteen", h:"/lyrics/supremes/onlysixteen.html", c:"", a:""},
+{s:"Only You (Can Love Me Like You Love Me)", h:"/lyrics/supremes/onlyyoucanlovemelikeyouloveme.html", c:"", a:""},
+{s:"Our Day Will Come", h:"/lyrics/supremes/ourdaywillcome.html", c:"", a:""},
+{s:"Over And Over", h:"/lyrics/supremes/overandover.html", c:"", a:""},
+{s:"Paradise", h:"/lyrics/supremes/paradise.html", c:"", a:""},
+{s:"People", h:"/lyrics/supremes/people.html", c:"", a:""},
+{s:"Play A Sad Song", h:"/lyrics/supremes/playasadsong.html", c:"", a:""},
+{s:"Precious Little Things", h:"/lyrics/supremes/preciouslittlethings.html", c:"", a:""},
+{s:"Put On A Happy Face", h:"/lyrics/supremes/putonahappyface.html", c:"", a:""},
+{s:"Put Yourself In My Place", h:"/lyrics/supremes/putyourselfinmyplace.html", c:"", a:""},
+{s:"Reach Out And Touch (Somebody's Hand)", h:"/lyrics/supremes/reachoutandtouchsomebodyshand.html", c:"", a:""},
+{s:"Remove This Doubt", h:"/lyrics/supremes/removethisdoubt.html", c:"", a:""},
+{s:"River Deep-Mountain High", h:"/lyrics/supremes/riverdeepmountainhigh.html", c:"", a:""},
+{s:"Rock-A-Bye Your Baby With A Dixie Melody", h:"/lyrics/supremes/rockabyeyourbabywithadixiemelody.html", c:"", a:""},
+{s:"Rudolph, The Red-Nosed Reindeer", h:"/lyrics/supremes/rudolphtherednosedreindeer.html", c:"", a:""},
+{s:"Run, Run, Run", h:"/lyrics/supremes/runrunrun.html", c:"", a:""},
+{s:"Santa Claus Is Coming To Town", h:"/lyrics/supremes/santaclausiscomingtotown.html", c:"", a:""},
+{s:"Save Me A Star", h:"/lyrics/supremes/savemeastar.html", c:"", a:""},
+{s:"Shake", h:"/lyrics/supremes/shake.html", c:"", a:""},
+{s:"Shake Me, Wake Me (When It's Over)", h:"/lyrics/supremes/shakemewakemewhenitsover.html", c:"", a:""},
+{s:"Shine On Me", h:"/lyrics/supremes/shineonme.html", c:"", a:""},
+{s:"Silent Night", h:"/lyrics/supremes/silentnight.html", c:"", a:""},
+{s:"Silent Voices", h:"/lyrics/supremes/silentvoices.html", c:"", a:""},
+{s:"Silver Bells", h:"/lyrics/supremes/silverbells.html", c:"", a:""},
+{s:"Sincerely", h:"/lyrics/supremes/sincerely.html", c:"", a:""},
+{s:"Sleep Walk", h:"/lyrics/supremes/sleepwalk.html", c:"", a:""},
+{s:"Slow Down", h:"/lyrics/supremes/slowdown.html", c:"", a:""},
+{s:"Somewhere", h:"/lyrics/supremes/somewhere.html", c:"", a:""},
+{s:"Standing At The Crossroads Of Love", h:"/lyrics/supremes/standingatthecrossroadsoflove.html", c:"", a:""},
+{s:"Stoned Love", h:"/lyrics/supremes/stonedlove.html", c:"", a:""},
+{s:"Stoned Soul Picnic", h:"/lyrics/supremes/stonedsoulpicnic.html", c:"", a:""},
+{s:"Stop! In The Name Of Love", h:"/lyrics/supremes/stopinthenameoflove.html", c:"", a:""},
+{s:"Stormy", h:"/lyrics/supremes/stormy.html", c:"", a:""},
+{s:"Stranger In Paradise", h:"/lyrics/supremes/strangerinparadise.html", c:"", a:""},
+{s:"Sunset", h:"/lyrics/supremes/sunset.html", c:"", a:""},
+{s:"Supercalifragilisticexpialidocious", h:"/lyrics/supremes/supercalifragilisticexpialidocious.html", c:"", a:""},
+{s:"Sweet Dream Machine", h:"/lyrics/supremes/sweetdreammachine.html", c:"", a:""},
+{s:"Sweet Thing", h:"/lyrics/supremes/sweetthing.html", c:"", a:""},
+{s:"Take A Closer Look At Me", h:"/lyrics/supremes/takeacloserlookatme.html", c:"", a:""},
+{s:"Taste Of Honey", h:"/lyrics/supremes/tasteofhoney.html", c:"", a:""},
+{s:"Tears In Vain", h:"/lyrics/supremes/tearsinvain.html", c:"", a:""},
+{s:"Thank Him For Today", h:"/lyrics/supremes/thankhimfortoday.html", c:"", a:""},
+{s:"The Ballad Of Davy Crocket", h:"/lyrics/supremes/theballadofdavycrocket.html", c:"", a:""},
+{s:"The Bigger You Love (The Harder You Fall)", h:"/lyrics/supremes/thebiggeryoulovetheharderyoufall.html", c:"", a:""},
+{s:"The Boy From Ipanema", h:"/lyrics/supremes/theboyfromipanema.html", c:"", a:""},
+{s:"The Christmas Song", h:"/lyrics/supremes/thechristmassong.html", c:"", a:""},
+{s:"The House Of The Rising Sun", h:"/lyrics/supremes/thehouseoftherisingsun.html", c:"", a:""},
+{s:"The Lady Is A Tramp", h:"/lyrics/supremes/theladyisatramp.html", c:"", a:""},
+{s:"The Land Of Make Believe", h:"/lyrics/supremes/thelandofmakebelieve.html", c:"", a:""},
+{s:"The Little Drummer Boy", h:"/lyrics/supremes/thelittledrummerboy.html", c:"", a:""},
+{s:"The Loving Country", h:"/lyrics/supremes/thelovingcountry.html", c:"", a:""},
+{s:"The Only Time I'm Happy", h:"/lyrics/supremes/theonlytimeimhappy.html", c:"", a:""},
+{s:"The Tears", h:"/lyrics/supremes/thetears.html", c:"", a:""},
+{s:"The Wisdom Of Time", h:"/lyrics/supremes/thewisdomoftime.html", c:"", a:""},
+{s:"Then I Met You", h:"/lyrics/supremes/thenimetyou.html", c:"", a:""},
+{s:"Then We Can Try Again", h:"/lyrics/supremes/thenwecantryagain.html", c:"", a:""},
+{s:"There's No Stopping Us Now", h:"/lyrics/supremes/theresnostoppingusnow.html", c:"", a:""},
+{s:"These Boots Are Made For Walkin'", h:"/lyrics/supremes/thesebootsaremadeforwalkin.html", c:"", a:""},
+{s:"Things Are Changing", h:"/lyrics/supremes/thingsarechanging.html", c:"", a:""},
+{s:"This Can't Be Love", h:"/lyrics/supremes/thiscantbelove.html", c:"", a:""},
+{s:"This Is The Story", h:"/lyrics/supremes/thisisthestory.html", c:"", a:""},
+{s:"This Is Why I Believe In You", h:"/lyrics/supremes/thisiswhyibelieveinyou.html", c:"", a:""},
+{s:"This Old Heart Of Mine (Is Weak For You)", h:"/lyrics/supremes/thisoldheartofmineisweakforyou.html", c:"", a:""},
+{s:"Thou Swell", h:"/lyrics/supremes/thouswell.html", c:"", a:""},
+{s:"Till The Boat Sails Away", h:"/lyrics/supremes/tilltheboatsailsaway.html", c:"", a:""},
+{s:"Time And Love", h:"/lyrics/supremes/timeandlove.html", c:"", a:""},
+{s:"Time Changes Things", h:"/lyrics/supremes/timechangesthings.html", c:"", a:""},
+{s:"Together We Can Make Such Sweet Music", h:"/lyrics/supremes/togetherwecanmakesuchsweetmusic.html", c:"", a:""},
+{s:"Too Hurt Too Cry, Too Much In Love Too Say Goodbye", h:"/lyrics/supremes/toohurttoocrytoomuchinlovetoosaygoodbye.html", c:"", a:""},
+{s:"Too Much A Little Too Soon", h:"/lyrics/supremes/toomuchalittletoosoon.html", c:"", a:""},
+{s:"Tossin' &amp; Turnin'", h:"/lyrics/supremes/tossinturnin.html", c:"", a:""},
+{s:"Touch", h:"/lyrics/supremes/touch.html", c:"", a:""},
+{s:"Toyland", h:"/lyrics/supremes/toyland.html", c:"", a:""},
+{s:"Tumbling Tumbleweeds", h:"/lyrics/supremes/tumblingtumbleweeds.html", c:"", a:""},
+{s:"Twinkle Twinkle Little Me", h:"/lyrics/supremes/twinkletwinklelittleme.html", c:"", a:""},
+{s:"Unchained Melody", h:"/lyrics/supremes/unchainedmelody.html", c:"", a:""},
+{s:"Up The Ladder To The Roof", h:"/lyrics/supremes/uptheladdertotheroof.html", c:"", a:""},
+{s:"Wait A Minute Before You Leave Me", h:"/lyrics/supremes/waitaminutebeforeyouleaveme.html", c:"", a:""},
+{s:"We Should Be Closer Together", h:"/lyrics/supremes/weshouldbeclosertogether.html", c:"", a:""},
+{s:"When Can Brown Begin?", h:"/lyrics/supremes/whencanbrownbegin.html", c:"", a:""},
+{s:"When The Lovelight Starts Shining Through His Eyes", h:"/lyrics/supremes/whenthelovelightstartsshiningthroughhiseyes.html", c:"", a:""},
+{s:"Where Did Our Love Go", h:"/lyrics/supremes/wheredidourlovego.html", c:"", a:""},
+{s:"Where Do I Go From Here", h:"/lyrics/supremes/wheredoigofromhere.html", c:"", a:""},
+{s:"Where Is It I Belong", h:"/lyrics/supremes/whereisitibelong.html", c:"", a:""},
+{s:"Where Or When", h:"/lyrics/supremes/whereorwhen.html", c:"", a:""},
+{s:"Where Would I Be Without You Baby", h:"/lyrics/supremes/wherewouldibewithoutyoubaby.html", c:"", a:""},
+{s:"Whisper You Love Me Boy", h:"/lyrics/supremes/whisperyoulovemeboy.html", c:"", a:""},
+{s:"Whistle While You Work", h:"/lyrics/supremes/whistlewhileyouwork.html", c:"", a:""},
+{s:"Who Can I Turn To", h:"/lyrics/supremes/whocaniturnto.html", c:"", a:""},
+{s:"Who Could Ever Doubt My Love", h:"/lyrics/supremes/whocouldeverdoubtmylove.html", c:"", a:""},
+{s:"Who's Lovin' You", h:"/lyrics/supremes/whoslovinyou.html", c:"", a:""},
+{s:"With A Song In My Heart", h:"/lyrics/supremes/withasonginmyheart.html", c:"", a:""},
+{s:"Without A Song", h:"/lyrics/supremes/withoutasong.html", c:"", a:""},
+{s:"Without The One You Love", h:"/lyrics/supremes/withouttheoneyoulove.html", c:"", a:""},
+{s:"Won't Be Long Before Christmas", h:"/lyrics/supremes/wontbelongbeforechristmas.html", c:"", a:""},
+{s:"Wonderful World", h:"/lyrics/supremes/wonderfulworld.html", c:"", a:""},
+{s:"Wonderful! Wonderful!", h:"/lyrics/supremes/wonderfulwonderful.html", c:"", a:""},
+{s:"Yesterday", h:"/lyrics/supremes/yesterday.html", c:"", a:""},
+{s:"You Are The Heart Of Me", h:"/lyrics/supremes/youaretheheartofme.html", c:"", a:""},
+{s:"You Bring Back Memories", h:"/lyrics/supremes/youbringbackmemories.html", c:"", a:""},
+{s:"You Can't Do That", h:"/lyrics/supremes/youcantdothat.html", c:"", a:""},
+{s:"You Can't Hurry Love", h:"/lyrics/supremes/youcanthurrylove.html", c:"", a:""},
+{s:"You Can't Stop A Girl In Love", h:"/lyrics/supremes/youcantstopagirlinlove.html", c:"", a:""},
+{s:"You Didn't Care", h:"/lyrics/supremes/youdidntcare.html", c:"", a:""},
+{s:"You Gotta Have Love In Your Heart", h:"/lyrics/supremes/yougottahaveloveinyourheart.html", c:"", a:""},
+{s:"You Keep Me Hangin' On", h:"/lyrics/supremes/youkeepmehanginon.html", c:"", a:""},
+{s:"You Keep Me Moving On", h:"/lyrics/supremes/youkeepmemovingon.html", c:"", a:""},
+{s:"You Move Me", h:"/lyrics/supremes/youmoveme.html", c:"", a:""},
+{s:"You Need Me", h:"/lyrics/supremes/youneedme.html", c:"", a:""},
+{s:"You Send Me", h:"/lyrics/supremes/yousendme.html", c:"", a:""},
+{s:"You Turn Me Around", h:"/lyrics/supremes/youturnmearound.html", c:"", a:""},
+{s:"You're Gone, But Always In My Heart", h:"/lyrics/supremes/youregonebutalwaysinmyheart.html", c:"", a:""},
+{s:"You're My Driving Wheel", h:"/lyrics/supremes/youremydrivingwheel.html", c:"", a:""},
+{s:"You're Nobody 'Til Somebody Loves You", h:"/lyrics/supremes/yourenobodytilsomebodylovesyou.html", c:"", a:""},
+{s:"You're What's Missing In My Life", h:"/lyrics/supremes/yourewhatsmissinginmylife.html", c:"", a:""},
+{s:"You've Really Got A Hold On Me", h:"/lyrics/supremes/youvereallygotaholdonme.html", c:"", a:""},
+{s:"Your Heart Belongs To Me", h:"/lyrics/supremes/yourheartbelongstome.html", c:"", a:""},
+{s:"Your Kiss Of Fire", h:"/lyrics/supremes/yourkissoffire.html", c:"", a:""},
+{s:"Your Wonderful Sweet, Sweet Love", h:"/lyrics/supremes/yourwonderfulsweetsweetlove.html", c:"", a:""}];
+var albumlist = ["<div id=\"18282\" class=\"album\">album: <b>\"Meet The Supremes\"<\/b> (1962)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/yourheartbelongstome.html\" target=\"_blank\">Your Heart Belongs To Me<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/whoslovinyou.html\" target=\"_blank\">Who's Lovin' You<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/babydontgo.html\" target=\"_blank\">Baby Don't Go<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/butteredpopcorn.html\" target=\"_blank\">Buttered Popcorn<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/iwantaguy.html\" target=\"_blank\">I Want A Guy<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/letmegotherightway.html\" target=\"_blank\">Let Me Go The Right Way<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/youbringbackmemories.html\" target=\"_blank\">You Bring Back Memories<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/timechangesthings.html\" target=\"_blank\">Time Changes Things<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/playasadsong.html\" target=\"_blank\">Play A Sad Song<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/neveragain.html\" target=\"_blank\">Never Again<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/hesseventeen.html\" target=\"_blank\">(He's) Seventeen<\/a><\/div>\n\r\n","<div id=\"18283\" class=\"album\">album: <b>\"Where Did Our Love Go\"<\/b> (1964)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/wheredidourlovego.html\" target=\"_blank\">Where Did Our Love Go<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/runrunrun.html\" target=\"_blank\">Run, Run, Run<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/babylove.html\" target=\"_blank\">Baby Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/whenthelovelightstartsshiningthroughhiseyes.html\" target=\"_blank\">When The Lovelight Starts Shining Through His Eyes<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/comeseeaboutme.html\" target=\"_blank\">Come See About Me<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/longgonelover.html\" target=\"_blank\">Long Gone Lover<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/imgivingyouyourfreedom.html\" target=\"_blank\">I'm Giving You Your Freedom<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/abreathtakingguy.html\" target=\"_blank\">A Breathtaking Guy<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/hemeanstheworldtome.html\" target=\"_blank\">He Means The World To Me<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/standingatthecrossroadsoflove.html\" target=\"_blank\">Standing At The Crossroads Of Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/yourkissoffire.html\" target=\"_blank\">Your Kiss Of Fire<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/askanygirl.html\" target=\"_blank\">Ask Any Girl<\/a><\/div>\n\r\n","<div id=\"18284\" class=\"album\">album: <b>\"A Bit Of Liverpool\"<\/b> (1964)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/howdoyoudoit.html\" target=\"_blank\">How Do You Do It<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/aworldwithoutlove.html\" target=\"_blank\">A World Without Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/thehouseoftherisingsun.html\" target=\"_blank\">The House Of The Rising Sun<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/aharddaysnight.html\" target=\"_blank\">A Hard Day's Night<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/because.html\" target=\"_blank\">Because<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/youvereallygotaholdonme.html\" target=\"_blank\">You've Really Got A Hold On Me<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/youcantdothat.html\" target=\"_blank\">You Can't Do That<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/doyouloveme.html\" target=\"_blank\">Do You Love Me<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/cantbuymelove.html\" target=\"_blank\">Can't Buy Me Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/iwanttoholdyourhand.html\" target=\"_blank\">I Want To Hold Your Hand<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/bitsandpieces.html\" target=\"_blank\">Bits And Pieces<\/a><\/div>\n\r\n","<div id=\"18285\" class=\"album\">album: <b>\"The Supremes Sing Country, Western And Pop\"<\/b> (1965)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/funnyhowtimeslipsaway.html\" target=\"_blank\">Funny How Time Slips Away<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/myheartcanttakeitnomore.html\" target=\"_blank\">My Heart Can't Take It No More<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/itmakesnodifferencenow.html\" target=\"_blank\">It Makes No Difference Now<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/youdidntcare.html\" target=\"_blank\">You Didn't Care<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/tearsinvain.html\" target=\"_blank\">Tears In Vain<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/tumblingtumbleweeds.html\" target=\"_blank\">Tumbling Tumbleweeds<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/lazybones.html\" target=\"_blank\">Lazy Bones<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/youneedme.html\" target=\"_blank\">You Need Me<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/babydoll.html\" target=\"_blank\">Baby Doll<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/sunset.html\" target=\"_blank\">Sunset<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/themanwiththerockandrollbanjoband.html\" target=\"_blank\">(The Man With The) Rock And Roll Banjo Band<\/a><\/div>\n\r\n","<div id=\"18286\" class=\"album\">album: <b>\"We Remember Sam Cooke\"<\/b> (1965)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/yousendme.html\" target=\"_blank\">You Send Me<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/nothingcanchangethislove.html\" target=\"_blank\">Nothing Can Change This Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/cupid.html\" target=\"_blank\">Cupid<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/chaingang.html\" target=\"_blank\">Chain Gang<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/bringitonhometome.html\" target=\"_blank\">Bring It On Home To Me<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/onlysixteen.html\" target=\"_blank\">Only Sixteen<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/havinaparty.html\" target=\"_blank\">Havin' A Party<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/shake.html\" target=\"_blank\">Shake<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/wonderfulworld.html\" target=\"_blank\">Wonderful World<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/achangeisgonnacome.html\" target=\"_blank\">A Change Is Gonna Come<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/aintthatgoodnews.html\" target=\"_blank\">(Ain't That) Good News<\/a><\/div>\n\r\n","<div id=\"18287\" class=\"album\">album: <b>\"More Hits By The Supremes\"<\/b> (1965)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/askanygirl.html\" target=\"_blank\">Ask Any Girl<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/nothingbutheartaches.html\" target=\"_blank\">Nothing But Heartaches<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/motherdear.html\" target=\"_blank\">Mother Dear<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/stopinthenameoflove.html\" target=\"_blank\">Stop! In The Name Of Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/honeyboy.html\" target=\"_blank\">Honey Boy<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/backinmyarmsagain.html\" target=\"_blank\">Back In My Arms Again<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/whisperyoulovemeboy.html\" target=\"_blank\">Whisper You Love Me Boy<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/theonlytimeimhappy.html\" target=\"_blank\">The Only Time I'm Happy<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/heholdshisown.html\" target=\"_blank\">He Holds His Own<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/whocouldeverdoubtmylove.html\" target=\"_blank\">Who Could Ever Doubt My Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/imsogladheartachesdontlastalways.html\" target=\"_blank\">(I'm So Glad) Heartaches Don't Last Always<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/iminloveagain.html\" target=\"_blank\">I'm In Love Again<\/a><\/div>\n\r\n","<div id=\"18288\" class=\"album\">album: <b>\"Merry Christmas\"<\/b> (1965)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/silverbells.html\" target=\"_blank\">Silver Bells<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/bornofmary.html\" target=\"_blank\">Born Of Mary<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/childrenschristmassong.html\" target=\"_blank\">Children's Christmas Song<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/thelittledrummerboy.html\" target=\"_blank\">The Little Drummer Boy<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/mychristmastree.html\" target=\"_blank\">My Christmas Tree<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/rudolphtherednosedreindeer.html\" target=\"_blank\">Rudolph, The Red-Nosed Reindeer<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/santaclausiscomingtotown.html\" target=\"_blank\">Santa Claus Is Coming To Town<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/myfavoritethings.html\" target=\"_blank\">My Favorite Things<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/twinkletwinklelittleme.html\" target=\"_blank\">Twinkle Twinkle Little Me<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/littlebrightstar.html\" target=\"_blank\">Little Bright Star<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/joytotheworld.html\" target=\"_blank\">Joy To The World<\/a><\/div>\n\r\n","<div id=\"18289\" class=\"album\">album: <b>\"I Hear A Symphony\"<\/b> (1966)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/strangerinparadise.html\" target=\"_blank\">Stranger In Paradise<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/yesterday.html\" target=\"_blank\">Yesterday<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/ihearasymphony.html\" target=\"_blank\">I Hear A Symphony<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/unchainedmelody.html\" target=\"_blank\">Unchained Melody<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/withasonginmyheart.html\" target=\"_blank\">With A Song In My Heart<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/withoutasong.html\" target=\"_blank\">Without A Song<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/myworldisemptywithoutyou.html\" target=\"_blank\">My World Is Empty Without You<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/aloversconcerto.html\" target=\"_blank\">A Lover's Concerto<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/anygirlinloveknowswhatimgoingthrough.html\" target=\"_blank\">Any Girl In Love (Knows What I'm Going Through)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/wonderfulwonderful.html\" target=\"_blank\">Wonderful! Wonderful!<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/everythingisgoodaboutyou.html\" target=\"_blank\">Everything Is Good About You<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/hesalligot.html\" target=\"_blank\">He's All I Got<\/a><\/div>\n\r\n","<div id=\"18290\" class=\"album\">album: <b>\"The Supremes A' Go-Go\"<\/b> (1966)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/loveislikeanitchinginmyheart.html\" target=\"_blank\">Love Is Like An Itching In My Heart<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/thisoldheartofmineisweakforyou.html\" target=\"_blank\">This Old Heart Of Mine (Is Weak For You)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/youcanthurrylove.html\" target=\"_blank\">You Can't Hurry Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/shakemewakemewhenitsover.html\" target=\"_blank\">Shake Me, Wake Me (When It's Over)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/babyineedyourloving.html\" target=\"_blank\">Baby I Need Your Loving<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/thesebootsaremadeforwalkin.html\" target=\"_blank\">These Boots Are Made For Walkin'<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/icanthelpmyselfsugarpiehoneybunch.html\" target=\"_blank\">I Can't Help Myself (Sugar Pie Honey Bunch)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/getready.html\" target=\"_blank\">Get Ready<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/putyourselfinmyplace.html\" target=\"_blank\">Put Yourself In My Place<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/moneythatswhatiwant.html\" target=\"_blank\">Money (That's What I Want)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/comeandgetthesememories.html\" target=\"_blank\">Come And Get These Memories<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/hangonsloopy.html\" target=\"_blank\">Hang On Sloopy<\/a><\/div>\n\r\n","<div id=\"18291\" class=\"album\">album: <b>\"The Supremes Sing Holland-Dozier-Holland\"<\/b> (1967)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/youkeepmehanginon.html\" target=\"_blank\">You Keep Me Hangin' On<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/youregonebutalwaysinmyheart.html\" target=\"_blank\">You're Gone, But Always In My Heart<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/loveishereandnowyouregone.html\" target=\"_blank\">Love Is Here And Now You're Gone<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/iwannamotheryousmotheryouwithlove.html\" target=\"_blank\">I Wanna Mother You, Smother You With Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/illguessillalwaysloveyou.html\" target=\"_blank\">I'll Guess I'll Always Love You<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/illturntostone.html\" target=\"_blank\">I'll Turn To Stone<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/itsthesameoldsong.html\" target=\"_blank\">It's The Same Old Song<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/goingdownforthethirdtime.html\" target=\"_blank\">Going Down For The Third Time<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/loveisinourhearts.html\" target=\"_blank\">Love Is In Our Hearts<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/removethisdoubt.html\" target=\"_blank\">Remove This Doubt<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/theresnostoppingusnow.html\" target=\"_blank\">There's No Stopping Us Now<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/loveislikeaheatwave.html\" target=\"_blank\">(Love Is Like A) Heat Wave<\/a><\/div>\n\r\n","<div id=\"18292\" class=\"album\">album: <b>\"The Supremes Sing Rodgers &amp; Hart\"<\/b> (1967)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/theladyisatramp.html\" target=\"_blank\">The Lady Is A Tramp<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/mountaingreenery.html\" target=\"_blank\">Mountain Greenery<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/thiscantbelove.html\" target=\"_blank\">This Can't Be Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/whereorwhen.html\" target=\"_blank\">Where Or When<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/lover.html\" target=\"_blank\">Lover<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/myfunnyvalentine.html\" target=\"_blank\">My Funny Valentine<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/myromance.html\" target=\"_blank\">My Romance<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/myheartstoodstill.html\" target=\"_blank\">My Heart Stood Still<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/fallinginlovewithlove.html\" target=\"_blank\">Falling In Love With Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/thouswell.html\" target=\"_blank\">Thou Swell<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/dancingontheceiling.html\" target=\"_blank\">Dancing On The Ceiling<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/bluemoon.html\" target=\"_blank\">Blue Moon<\/a><\/div>\n\r\n","<div id=\"47239\" class=\"album\">album: <b>\"The Magnificent 7\"<\/b> (1970)<div class=\"album-subtitle\">(with The Four Tops)<\/div><\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/knockonmydoor.html\" target=\"_blank\">Knock On My Door<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/foryourlove.html\" target=\"_blank\">For Your Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/withouttheoneyoulove.html\" target=\"_blank\">Without The One You Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/reachoutandtouchsomebodyshand.html\" target=\"_blank\">Reach Out And Touch (Somebody's Hand)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/stonedsoulpicnic.html\" target=\"_blank\">Stoned Soul Picnic<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/babyyouvegotwhatittakes.html\" target=\"_blank\">Baby (You've Got What It Takes)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/riverdeepmountainhigh.html\" target=\"_blank\">River Deep-Mountain High<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/aintnothingliketherealthing.html\" target=\"_blank\">Ain't Nothing Like The Real Thing<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/everydaypeople.html\" target=\"_blank\">Everyday People<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/itsgottobeamiraclethisthingcalledlove.html\" target=\"_blank\">It's Got To Be A Miracle (This Thing Called Love)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/tasteofhoney.html\" target=\"_blank\">Taste Of Honey<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/togetherwecanmakesuchsweetmusic.html\" target=\"_blank\">Together We Can Make Such Sweet Music<\/a><\/div>\n\r\n","<div id=\"18293\" class=\"album\">album: <b>\"Right On\"<\/b> (1970)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/uptheladdertotheroof.html\" target=\"_blank\">Up The Ladder To The Roof<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/thenwecantryagain.html\" target=\"_blank\">Then We Can Try Again<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/everybodysgottherighttolove.html\" target=\"_blank\">Everybody's Got The Right To Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/waitaminutebeforeyouleaveme.html\" target=\"_blank\">Wait A Minute Before You Leave Me<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/youmoveme.html\" target=\"_blank\">You Move Me<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/butiloveyoumore.html\" target=\"_blank\">But I Love You More<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/igothurttryingtobetheonlygirlinyourlife.html\" target=\"_blank\">I Got Hurt (Trying To Be The Only Girl In Your Life)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/babybaby.html\" target=\"_blank\">Baby Baby<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/takeacloserlookatme.html\" target=\"_blank\">Take A Closer Look At Me<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/thenimetyou.html\" target=\"_blank\">Then I Met You<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/billwhenareyoucomingback.html\" target=\"_blank\">Bill, When Are You Coming Back<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/thelovingcountry.html\" target=\"_blank\">The Loving Country<\/a><\/div>\n\r\n","<div id=\"18294\" class=\"album\">album: <b>\"New Ways But Love Stays\"<\/b> (1970)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/togetherwecanmakesuchsweetmusic.html\" target=\"_blank\">Together We Can Make Such Sweet Music<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/stonedlove.html\" target=\"_blank\">Stoned Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/itstimetobreakdown.html\" target=\"_blank\">It's Time To Break Down<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/bridgeovertroubledwater.html\" target=\"_blank\">Bridge Over Troubled Water<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/iwishiwereyourmirror.html\" target=\"_blank\">I Wish I Were Your Mirror<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/cometogether.html\" target=\"_blank\">Come Together<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/isthereaplaceinhisheartforme.html\" target=\"_blank\">Is There A Place (In His Heart For Me)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/nanaheyheykisshimgoodbye.html\" target=\"_blank\">Na Na Hey Hey (Kiss Him Goodbye)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/shineonme.html\" target=\"_blank\">Shine On Me<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/thankhimfortoday.html\" target=\"_blank\">Thank Him For Today<\/a><\/div>\n\r\n","<div id=\"18295\" class=\"album\">album: <b>\"Touch\"<\/b> (1971)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/thisisthestory.html\" target=\"_blank\">This Is The Story<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/nathanjones.html\" target=\"_blank\">Nathan Jones<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/herecomesthesunrise.html\" target=\"_blank\">Here Comes The Sunrise<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/loveitcametomethistime.html\" target=\"_blank\">Love It Came To Me This Time<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/johnnyraven.html\" target=\"_blank\">Johnny Raven<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/haveilostyou.html\" target=\"_blank\">Have I Lost You<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/timeandlove.html\" target=\"_blank\">Time And Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/touch.html\" target=\"_blank\">Touch<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/happyisabumpyroad.html\" target=\"_blank\">Happy (Is A Bumpy Road)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/itssohardformetosaygoodbye.html\" target=\"_blank\">It's So Hard For Me To Say Goodbye<\/a><\/div>\n\r\n","<div id=\"47240\" class=\"album\">album: <b>\"The Return Of The Magnificent Seven\"<\/b> (1971)<div class=\"album-subtitle\">(as The Supremes & The Four Tops)<\/div><\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/yougottahaveloveinyourheart.html\" target=\"_blank\">You Gotta Have Love In Your Heart<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/callme.html\" target=\"_blank\">Call Me<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/onemorebridgetocross.html\" target=\"_blank\">One More Bridge To Cross<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/ifyoucouldseemenow.html\" target=\"_blank\">If You Could See Me Now<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/illtrynottocry.html\" target=\"_blank\">I'll Try Not To Cry<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/imgladaboutit.html\" target=\"_blank\">I'm Glad About It<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/icantbelieveyouloveme.html\" target=\"_blank\">I Can't Believe You Love Me<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/wherewouldibewithoutyoubaby.html\" target=\"_blank\">Where Would I Be Without You Baby<\/a><\/div>\n\r\n","<div id=\"47241\" class=\"album\">album: <b>\"Dynamite\"<\/b> (1971)<div class=\"album-subtitle\">(as The Supremes & The Four Tops)<\/div><\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/itsimpossible.html\" target=\"_blank\">It's Impossible<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/thebiggeryoulovetheharderyoufall.html\" target=\"_blank\">The Bigger You Love (The Harder You Fall)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/hellostranger.html\" target=\"_blank\">Hello Stranger<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/lovetheoneyourewith.html\" target=\"_blank\">Love The One You're With<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/goodlovinainteasytocomeby.html\" target=\"_blank\">Good Lovin' Ain't Easy To Come By<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/if.html\" target=\"_blank\">If<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/ificouldbuildmywholeworldaroundyou.html\" target=\"_blank\">If I Could Build My Whole World Around You<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/dontletmelosethisdream.html\" target=\"_blank\">Don't Let Me Lose This Dream<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/doyoulovemejustalittlehoney.html\" target=\"_blank\">Do You Love Me Just A Little, Honey<\/a><\/div>\n\r\n","<div id=\"18296\" class=\"album\">album: <b>\"Floy Joy\"<\/b> (1972)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/yourwonderfulsweetsweetlove.html\" target=\"_blank\">Your Wonderful Sweet, Sweet Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/floyjoy.html\" target=\"_blank\">Floy Joy<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/aheartlikemine.html\" target=\"_blank\">A Heart Like Mine<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/overandover.html\" target=\"_blank\">Over And Over<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/preciouslittlethings.html\" target=\"_blank\">Precious Little Things<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/nowthebitternowthesweet.html\" target=\"_blank\">Now The Bitter, Now The Sweet<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/automaticallysunshine.html\" target=\"_blank\">Automatically Sunshine<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/thewisdomoftime.html\" target=\"_blank\">The Wisdom Of Time<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/ohbemylove.html\" target=\"_blank\">Oh Be My Love<\/a><\/div>\n\r\n","<div id=\"18297\" class=\"album\">album: <b>\"The Supremes Produced And Arranged By Jimmy Webb\"<\/b> (1972)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/iguessillmisstheman.html\" target=\"_blank\">I Guess I'll Miss The Man<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/530plane.html\" target=\"_blank\">5:30 Plane<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/tossinturnin.html\" target=\"_blank\">Tossin' &amp; Turnin'<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/whencanbrownbegin.html\" target=\"_blank\">When Can Brown Begin?<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/beyondmyself.html\" target=\"_blank\">Beyond Myself<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/silentvoices.html\" target=\"_blank\">Silent Voices<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/alliwant.html\" target=\"_blank\">All I Want<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/onceinthemorning.html\" target=\"_blank\">Once In The Morning<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/ikeepithid.html\" target=\"_blank\">I Keep It Hid<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/paradise.html\" target=\"_blank\">Paradise<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/cheaplovin.html\" target=\"_blank\">Cheap Lovin'<\/a><\/div>\n\r\n","<div id=\"18298\" class=\"album\">album: <b>\"The Supremes\"<\/b> (1975)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/hesmyman.html\" target=\"_blank\">He's My Man<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/earlymorninglove.html\" target=\"_blank\">Early Morning Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/whereisitibelong.html\" target=\"_blank\">Where Is It I Belong<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/itsallbeensaidbefore.html\" target=\"_blank\">It's All Been Said Before<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/thisiswhyibelieveinyou.html\" target=\"_blank\">This Is Why I Believe In You<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/youcantstopagirlinlove.html\" target=\"_blank\">You Can't Stop A Girl In Love<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/colormyworldblue.html\" target=\"_blank\">Color My World Blue<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/giveoutbutdontgiveup.html\" target=\"_blank\">Give Out, But Don't Give Up<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/wheredoigofromhere.html\" target=\"_blank\">Where Do I Go From Here<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/youturnmearound.html\" target=\"_blank\">You Turn Me Around<\/a><\/div>\n\r\n","<div id=\"18299\" class=\"album\">album: <b>\"High Energy\"<\/b> (1976)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/highenergy.html\" target=\"_blank\">High Energy<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/imgonnaletmyheartdothewalking.html\" target=\"_blank\">I'm Gonna Let My Heart Do The Walking<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/onlyyoucanlovemelikeyouloveme.html\" target=\"_blank\">Only You (Can Love Me Like You Love Me)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/youkeepmemovingon.html\" target=\"_blank\">You Keep Me Moving On<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/dontletmyteardropsbotheryou.html\" target=\"_blank\">Don't Let My Teardrops Bother You<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/tilltheboatsailsaway.html\" target=\"_blank\">Till The Boat Sails Away<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/idontwanttoloseyou.html\" target=\"_blank\">I Don't Want To Lose You<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/yourewhatsmissinginmylife.html\" target=\"_blank\">You're What's Missing In My Life<\/a><\/div>\n\r\n","<div id=\"18300\" class=\"album\">album: <b>\"Mary, Scherrie &amp; Susaye\"<\/b> (1976)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/youremydrivingwheel.html\" target=\"_blank\">You're My Driving Wheel<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/sweetdreammachine.html\" target=\"_blank\">Sweet Dream Machine<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/letyourselfgo.html\" target=\"_blank\">Let Yourself Go<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/comeintomylife.html\" target=\"_blank\">Come Into My Life<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/weshouldbeclosertogether.html\" target=\"_blank\">We Should Be Closer Together<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/idontwanttobetieddown.html\" target=\"_blank\">I Don't Want To Be Tied Down<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/youaretheheartofme.html\" target=\"_blank\">You Are The Heart Of Me<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/loveineverknewyoucouldfeelsogood.html\" target=\"_blank\">Love, I Never Knew You Could Feel So Good<\/a><\/div>\n\r\n","<div id=\"18301\" class=\"album\">compilation: <b>\"The Never Before Released Masters\"<\/b> (1987)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/amiaskingtoomuch.html\" target=\"_blank\">Am I Asking Too Much<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/adreamisawishyourheartmakes.html\" target=\"_blank\">A Dream Is A Wish Your Heart Makes<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/alittlebreeze.html\" target=\"_blank\">A Little Breeze<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/canigetawitness.html\" target=\"_blank\">Can I Get A Witness<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/comeintomypalace.html\" target=\"_blank\">Come Into My Palace<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/dontlettruelovedie.html\" target=\"_blank\">Don't Let True Love Die<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/fancypasses.html\" target=\"_blank\">Fancy Passes<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/imtheexceptiontotherule.html\" target=\"_blank\">I'm The Exception To The Rule<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/ivegotnostrings.html\" target=\"_blank\">I've Got No Strings<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/itsgoingallthewaytotruetruelove.html\" target=\"_blank\">It's Going All The Way (To True True Love)<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/littlemissloser.html\" target=\"_blank\">Little Miss Loser<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/mrblues.html\" target=\"_blank\">Mr. Blues<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/ourdaywillcome.html\" target=\"_blank\">Our Day Will Come<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/savemeastar.html\" target=\"_blank\">Save Me A Star<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/silentnight.html\" target=\"_blank\">Silent Night<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/slowdown.html\" target=\"_blank\">Slow Down<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/stormy.html\" target=\"_blank\">Stormy<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/supercalifragilisticexpialidocious.html\" target=\"_blank\">Supercalifragilisticexpialidocious<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/sweetthing.html\" target=\"_blank\">Sweet Thing<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/theballadofdavycrocket.html\" target=\"_blank\">The Ballad Of Davy Crocket<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/thechristmassong.html\" target=\"_blank\">The Christmas Song<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/thelandofmakebelieve.html\" target=\"_blank\">The Land Of Make Believe<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/toohurttoocrytoomuchinlovetoosaygoodbye.html\" target=\"_blank\">Too Hurt Too Cry, Too Much In Love Too Say Goodbye<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/toomuchalittletoosoon.html\" target=\"_blank\">Too Much A Little Too Soon<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/toyland.html\" target=\"_blank\">Toyland<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/whistlewhileyouwork.html\" target=\"_blank\">Whistle While You Work<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/wontbelongbeforechristmas.html\" target=\"_blank\">Won't Be Long Before Christmas<\/a><\/div>\n\r\n","<div id=\"47265\" class=\"album\">compilation: <b>\"There's A Place For Us\"<\/b> (2004)<\/div>\r\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/rockabyeyourbabywithadixiemelody.html\" target=\"_blank\">Rock-A-Bye Your Baby With A Dixie Melody<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/fancypasses.html\" target=\"_blank\">Fancy Passes<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/theboyfromipanema.html\" target=\"_blank\">The Boy From Ipanema<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/putonahappyface.html\" target=\"_blank\">Put On A Happy Face<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/ourdaywillcome.html\" target=\"_blank\">Our Day Will Come<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/yourenobodytilsomebodylovesyou.html\" target=\"_blank\">You're Nobody 'Til Somebody Loves You<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/somewhere.html\" target=\"_blank\">Somewhere<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/makesomeonehappy.html\" target=\"_blank\">Make Someone Happy<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/littlemissloser.html\" target=\"_blank\">Little Miss Loser<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/sleepwalk.html\" target=\"_blank\">Sleep Walk<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/bigcitybabiesdontcry.html\" target=\"_blank\">Big City Babies Don't Cry<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/people.html\" target=\"_blank\">People<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/iamwomanyouareman.html\" target=\"_blank\">I Am Woman, You Are Man<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/sincerely.html\" target=\"_blank\">Sincerely<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/allofasuddenmyheartsings.html\" target=\"_blank\">(All Of A Sudden) My Heart Sings<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/ifiruledtheworld.html\" target=\"_blank\">If I Ruled The World<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/whocaniturnto.html\" target=\"_blank\">Who Can I Turn To<\/a><\/div>\n\r\n"];
+var albumlist_others = "<div class=\"album\"><b>other songs:<\/b><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/thetears.html\" target=\"_blank\">The Tears<\/a><\/div>\n<div class=\"listalbum-item\"><a href=\"\/lyrics\/supremes\/thingsarechanging.html\" target=\"_blank\">Things Are Changing<\/a><\/div>\n\n";
+
+window.addEventListener('DOMContentLoaded', function(){
+
+$('#az_sort_song').on('click',function(event){
+    var sortprop='data-az-song-sort';
+    var el = event.currentTarget;
+    var el_glyph = $(el).children('span.glyphicon');
+    var res='';
+    if(el.getAttribute(sortprop)){
+        el.setAttribute(sortprop,'');
+        el_glyph.removeClass('glyphicon-sort-by-alphabet');
+        el_glyph.addClass('glyphicon-sort-by-alphabet-alt');
+        for (var i=(songlist.length-1); i>=0; i--) {
+            res += '<div class="listalbum-item"><a href="'+songlist[i].h+'" target="_blank">'+songlist[i].s+''+songlist[i].c+'</a>'+(songlist[i].a=="" ? '' : ' <div class="comment">('+songlist[i].a+')</div>')+'</div>';
+        }
+    }else{
+        el.setAttribute(sortprop,'1');
+        el_glyph.removeClass('glyphicon-sort-by-alphabet-alt');
+        el_glyph.addClass('glyphicon-sort-by-alphabet');
+        for (var i=0; i<songlist.length; i++) {
+            res += '<div class="listalbum-item"><a href="'+songlist[i].h+'" target="_blank">'+songlist[i].s+''+songlist[i].c+'</a>'+(songlist[i].a=="" ? '' : ' <div class="comment">('+songlist[i].a+')</div>')+'</div>';
+        }
+    }
+    $('#listAlbum').html(res);
+    $('#listAlbum').css('padding-top','15px');
+});
+
+$('#az_sort_album').on('click',function(event){
+    var sortprop='data-az-album-sort';
+    var el = event.currentTarget;
+    var el_glyph = $(el).children('span.glyphicon');
+    var res='';
+    if(el.getAttribute(sortprop)){
+        el.setAttribute(sortprop,'');
+        el_glyph.removeClass('glyphicon-sort-by-order');
+        el_glyph.addClass('glyphicon-sort-by-order-alt');
+        for (var i=(albumlist.length-1); i>=0; i--) {
+            res += albumlist[i];
+        }
+    }else{
+        el.setAttribute(sortprop,'1');
+        el_glyph.removeClass('glyphicon-sort-by-order-alt');
+        el_glyph.addClass('glyphicon-sort-by-order');
+        for (var i=0; i<albumlist.length; i++) {
+            res += albumlist[i];
+        }
+    }
+    res += albumlist_others;
+    $('#listAlbum').html(res);
+    $('#listAlbum').css('padding-top','0');
+});
+
+});
+//-->
+</script>
+</div>
+<!-- end of song list -->
+
+<div class="ringtone">
+<span id="cf_text_bottom"></span>
+</div>
+
+
+        <form class="search noprint" method="get" action="//search.azlyrics.com/search.php" role="search">
+         <div style="margin-bottom:15px" class="input-group">  
+		<input type="text" class="form-control" placeholder="" name="q">
+       		<span class="input-group-btn">
+            	  <button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+          	</span>
+ 	  </div>   
+	</form>
+
+</div> <!-- content -->
+
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs">
+   <div class="sky-ad"></div>
+</div>
+</div>
+</div>  <!-- container main-page -->
+
+<!-- nav bottom -->
+       <nav class="navbar navbar-default navbar-bottom">
+          <div class="container text-center">
+          <ul class="nav navbar-nav navbar-center">
+            <li><a href="#" onclick="document.forms['addsong'].submit();return false;">Submit Lyrics</a></li>
+            <li><a href="//www.stlyrics.com">Soundtracks</a></li>
+            <li><a href="//www.facebook.com/pages/AZLyricscom/154139197951223">Facebook</a></li>
+            <li><a href="//www.azlyrics.com/contact.html">Contact Us</a></li>
+          </ul>
+          </div> 
+        </nav>
+
+<!-- bot ban -->
+  <div class="lboard-wrap">
+  <div class="container">
+    <div class="row">
+       <div class="col-xs-12 top-ad text-center">
+          <div id="RTK_9uCq"></div>
+       </div>
+    </div>
+  </div>
+  </div>
+
+<!-- footer -->
+     <nav class="navbar navbar-footer">
+          <div class="container text-center">
+          <ul class="nav navbar-nav navbar-center">
+            <li><a href="//www.azlyrics.com/adv.html">Advertise Here</a></li>
+            <li><a href="//www.azlyrics.com/privacy.html">Privacy Policy</a></li>
+            <li><a href="//www.azlyrics.com/cookie.html">Cookie Policy</a></li>
+            <li><a href="//www.azlyrics.com/copyright.html">DMCA Policy</a></li>
+          </ul>
+          </div> 
+     </nav>
+     <div class="footer-wrap">
+          <div class="container">
+          <small>
+             <script type="text/javascript">
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             </script>
+          </small>
+          </div>
+     </div>
+
+<script>
+cf_page_artist = ArtistName;
+cf_page_song = "";
+cf_page_genre = "pop";
+cf_no_bit = 0;
+</script>
+<script src="/local/anew.js"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+    <div id="CssFailCheck" class="hidden" style="height:1px;"></div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="//www.azlyrics.com/local/jquery.min.js"><\/script>')</script>
+    <script>
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="//www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="//www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    </script>
+    <script src="/local/az.js"></script>
+    <script src="/geo.js"></script>
+  </body>
+</html>

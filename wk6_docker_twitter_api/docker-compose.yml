@@ -1,0 +1,27 @@
+version: '3'
+services:
+  tweet_scraper:
+    build: tweet_scraper/
+    volumes:
+      - ./tweet_scraper/:/app
+    depends_on:
+      - mongodb
+  etl_tweets:
+    build: etl_tweets/
+    volumes:
+      - ./etl_tweets/:/app
+    depends_on:
+      - mongodb
+      - postgres
+  mongodb:
+    image: mongo
+    ports:
+    - 27017:27017
+  postgres:
+    image: postgres
+    ports:
+    - 5555:5432
+    environment:
+    - POSTGRES_USER=postgres
+    - POSTGRES_PASSWORD=${PG_PASSWORD}
+    - POSTGRES_DB=tweets_table
